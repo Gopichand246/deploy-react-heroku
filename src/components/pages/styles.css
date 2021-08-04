@@ -1,0 +1,156 @@
+.about,
+.projects {
+  padding-top: 15vh;
+  display: block;
+}
+.about {
+  background-color: white;
+}
+.edu {
+  padding-top: 5vh;
+  background-color: rgb(248, 240, 240);
+}
+/* .projects
+{
+    background-color: rgb(241, 241, 241);
+} */
+.pageIcon {
+  background-color: #010138;
+  padding: 1.5vh 4vh;
+  color: white;
+  border-radius: 40px;
+  font-size: 3vmin;
+  width: 10vw;
+}
+.profileIcon {
+  float: left;
+  padding: 6vh 8vw;
+  border-radius: 50%;
+  width: 15vw;
+}
+.aboutText {
+  position: relative;
+  font-size: 3vmin;
+  text-align: justify;
+  padding: 10vh;
+  right: 5vw;
+}
+.allCards {
+  padding: 10vh 7vw;
+  display: flex;
+  float: inline-start;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.projectCard {
+  width: 25vw;
+  box-shadow: 0 4px 8px 0 rgba(131, 119, 119, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10vh;
+  background-color: white;
+  height: 45vh;
+  cursor: pointer;
+}
+.projectText {
+  font-size: 2.2vmin;
+  padding-top: 2vh;
+  text-align: center;
+}
+.projectDomain {
+  font-size: 1.8vmin;
+  color: rgb(90, 81, 81);
+  position: relative;
+  top: 1vh;
+}
+.allEduCards {
+  padding: 15vh 15vw;
+}
+.eduCard {
+  width: 70vw;
+  height: 27vh;
+  box-shadow: 0 4px 8px 0 rgba(131, 119, 119, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 7vh;
+  background-color: white;
+}
+
+.eduLogo {
+  float: left;
+  padding: 4vh 4vw;
+}
+.eduText {
+  list-style: none;
+  position: relative;
+  top: 8vh;
+  left: 5vw;
+  font-size: 2.2vmin;
+  float: left;
+}
+.eduText li::before {
+  content: "\2022";
+  color: #010138;
+  font-weight: bold;
+  font-size: 3vmin;
+}
+.eduScore {
+  float: left;
+}
+.eduName {
+  position: relative;
+  left: 2vmin;
+  bottom: 4px;
+}
+.eduScoreTxt {
+  position: relative;
+  left: 2vmin;
+}
+.degree {
+  font-size: 2.5vmin;
+  display: block;
+  position: relative;
+  top: 3vh;
+  left: -8vw;
+}
+.timeline {
+  float: right;
+  font-style: italic;
+  position: relative;
+  left: -1vw;
+  top: 5px;
+  font-size: 2vmin;
+}
+.contactBlock {
+  display: block;
+  margin-left: 6vw;
+  float: left;
+  text-align: center;
+  align-items: center;
+}
+.contactIcon {
+  display: block;
+  border-radius: 50%;
+  background-color: rgb(150, 140, 140);
+  color: rgb(247, 247, 247);
+  width: 5vw;
+  height: 9vh;
+}
+.contactBlockTxt {
+  display: block;
+  color: rgb(192, 86, 86);
+  padding-top: 1vh;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.7vmin;
+}
+#contact-ico {
+  padding-top: 2.5vh;
+}
+.allContactBlocks {
+  display: flex;
+  padding: 17vh 8vw;
+}
+.contactBlock a:hover {
+  color: #01010c;
+}
