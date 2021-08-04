@@ -118,7 +118,7 @@ const userData={
         {
             "id":3,
             "degree":"Board of Secondary Education, Andhra Pradesh (BSEAP)",
-            "name":"Bhashyam Public School, Visakahapatbnam",
+            "name":"Bhashyam Public School, Visakhapatnam",
             "marks":"CGPA: 9.8",
             "logo":"/images/bhashyam.png",
             "Timeline":"Upto 2016"
