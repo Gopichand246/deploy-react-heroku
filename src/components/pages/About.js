@@ -6,7 +6,7 @@ function About() {
     <div className="about" id="aboutNav">
       <span className="pageIcon"> About Me</span> <br />
       <img
-        src=""
+        src="/images/profilePic.jpeg"
         alt="profile Icon"
         className="profileIcon"
       />
