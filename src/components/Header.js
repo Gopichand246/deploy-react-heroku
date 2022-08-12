@@ -4,7 +4,7 @@ import "./styles.css";
 
 function Header() {
   const portfolio = "Portfolio.";
-  const name = "Gopichand";
+  const name = "Sushmitha";
   const [header, setHeader] = useState(false);
   const changeHeader = () => {
     if (window.scrollY >= 800) {
