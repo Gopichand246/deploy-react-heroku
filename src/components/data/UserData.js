@@ -67,11 +67,11 @@ const userData={
     "Contact":
     {
         'Email':'sushmithadogga@gmail.com',
-        'Mobile':'+91-6304399051',
-        'Facebook':'https://www.facebook.com/gopichand.siripurapu/',
-        'Instagram':'https://www.instagram.com/gopichand_s.g.c/',
-        'Github':'https://github.com/Gopichand246',
-        'LinkedIn':'https://www.linkedin.com/in/gopichand-siripurapu-a49285212/'
+        'Mobile':'+91-9493473888',
+        'Facebook':'',
+        'Instagram':'',
+        'Github':'',
+        'LinkedIn':''
     }
 }
 export default userData
