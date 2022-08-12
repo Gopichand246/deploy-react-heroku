@@ -5,7 +5,7 @@ const userData={
             "title": "Insurance Management System",
             "tagLine" : "Insurance Management System",
             "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Image": "/images/fireDetection.jpg",
+            "Image": "/images/insurance.jpeg",
             "startDate": "08-2020",
             "endDate": "09-2020",
             "SourceLink": {
@@ -20,7 +20,7 @@ const userData={
             "title": "Smart Detection",
             "tagLine" : "Bank Management System",
             "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-            "Image": "/images/surveillance.jpg",
+            "Image": "/images/bankManagement.jpg",
             "startDate": "08-2020",
             "endDate": "09-2020",
             "SourceLink": {
