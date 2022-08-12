@@ -4,7 +4,7 @@ import "./styles.css";
 function SideBar() {
   return (
     <div className="sideBar">
-      <img src="" alt="profileIcon" className="icon" />
+      <img src="/images/profilePic.jpeg" alt="profileIcon" className="icon" />
     </div>
   );
 }
