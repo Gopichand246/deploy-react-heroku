@@ -13,7 +13,7 @@ function Education() {
             <div className="eduCard">
               <img
                 src={data.logo}
-                alt="IIITS"
+                alt="AU"
                 width="12%"
                 className="eduLogo"
               />
