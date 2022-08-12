@@ -34,7 +34,7 @@ function Contact() {
           </span>
           <a
             href="/MyResume.pdf"
-            download="Gopichand-Resume.pdf"
+            download="Sushmitha-Resume.pdf"
             className="contactBlockTxt"
           >
             RESUME
