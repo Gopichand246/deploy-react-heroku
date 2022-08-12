@@ -9,7 +9,7 @@ const userData={
             "startDate": "08-2020",
             "endDate": "09-2020",
             "SourceLink": {
-                "github": "https://github.com/Gopichand246/SmartDetection"
+                "github": ""
             },
             "MyContribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
             "domain":"Big Data Analytics",
@@ -24,7 +24,7 @@ const userData={
             "startDate": "08-2020",
             "endDate": "09-2020",
             "SourceLink": {
-                "github": "https://github.com/Gopichand246/SmartDetection"
+                "github": ""
             },
             "MyContribution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
             "domain":"Big Data Analytics",
@@ -44,14 +44,14 @@ const userData={
             "degree":"Bachelor of Technology in Electronics and Communication Engineering",
             "name":"Andhra University College of Engineering for Women",
             "marks":"CGPA: 8.11 (6 semesters)",
-            "logo":"",
+            "logo":"/images/au.jpeg",
             "Timeline":"2018-2022"
         },
         {
             "id":2,
             "degree":"Board of Intermediate Education, Andhra Pradesh (BIEAP)",
             "name":"Narayana Junior College, Visakhapatnam",
-            "marks":"Secured 97.1%",
+            "marks":"Secured 95%",
             "logo":"/images/narayana.png",
             "Timeline":"2016-2018"
         },
@@ -60,7 +60,7 @@ const userData={
             "degree":"Indian Council of Secondary Education (class 10)",
             "name":"St.Ann's High school",
             "marks":"Secured 93%",
-            "logo":"",
+            "logo":"/images/school.png",
             "Timeline":"Upto 2016"
         }
     ],
