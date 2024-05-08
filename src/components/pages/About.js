@@ -12,8 +12,8 @@ function About() {
       />
       <div className="aboutText">
         I am Sushmitha Dogga, a final year ECE undergraduate at Andhra University College of Engineering for Women. I have
-        worked in multiple domains in my projects, mainly Big Data Analytics and web development. Coming to my personal life, I love watching cricket and reading books. 
-        Presently I am looking forward to expand my skills and
+        worked in multiple domains in my projects, mainly Big Data Analytics and web development. Coming to my personal life, I love watching and
+        playing cricket. Presently I am looking forward to expand my skills and
         to get hands on experience in the industry.
       </div>
     </div>
