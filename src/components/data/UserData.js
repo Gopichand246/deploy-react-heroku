@@ -95,9 +95,6 @@ const userData={
         "profileImage":"/images/flower.jpg",
         "AboutText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
     },
-    "Contact":{
-        "mailId":"gopichand8990@gmail.com"
-    },
     "Education":[
         {
             "id":1,
